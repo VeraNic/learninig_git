@@ -1,5 +1,7 @@
 # **GIT COMMANDS**
 
+![git](https://cdn-images-1.medium.com/fit/t/1600/480/1*BCZkmZR1_YzDZy22Vn4uUw.png)
+
 ## Настройки git
 
 >* *git version* - вывести версию программы git
