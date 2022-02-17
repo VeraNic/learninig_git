@@ -44,3 +44,5 @@
 >* **git checkout master** - возврат к актуальной версии файла
 >
 >* **git diff** - показ разницы между текущим состоянием файла и сохраненным
+> [!NOTE]
+> Information the user should notice even if skimming.
