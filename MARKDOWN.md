@@ -24,7 +24,7 @@
   + Item 5
 
 ---
-## **Font**
+## **Font styles**
 ** BOLD ** - **BOLD**
 
 __ BOLD __ - __BOLD__
