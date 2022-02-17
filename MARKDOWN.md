@@ -41,3 +41,11 @@ _ ITALIC _ - _ITALIC_
 ! [Alternate text] (image.jpg)
 
 ![Alternate text][ref]
+
+___
+
+1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+2. [Шпаргалка по Markdown](https://github.com/sandino/Markdown-Cheatsheet)
+
+3. [Rules](https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md047)
