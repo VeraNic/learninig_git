@@ -37,7 +37,7 @@ _ ITALIC _ - _ITALIC_
 
 ## **Link**
 
-[link text](https://www.example.com/)
+[link text] (https://www.example.com/)
 
 ---
 ## **Image**
@@ -53,3 +53,7 @@ ___
 2. [Шпаргалка по Markdown](https://github.com/sandino/Markdown-Cheatsheet)
 
 3. [Rules](https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md047)
+
+4. [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
+
